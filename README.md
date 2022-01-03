@@ -2,7 +2,7 @@
 
 Amazing website with good UI design for new Discord Bots, designed with Bootstrap & now-ui-kit avaliable in English and Arabic.
 
-![Screenshot]
+![Screenshot](Website.png)
 
 ## Getting Started
 
